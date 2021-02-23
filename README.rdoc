@@ -1,1 +1,1 @@
-This is the repository for the first alph-blog app of the Udemy course.
+This is the repository for the BMD assets tool.
